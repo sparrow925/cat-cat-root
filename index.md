@@ -18,7 +18,7 @@ feature_row:
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/overlay.jpg
+  - image_path: /assets/images/ramps.jpg
     alt: "favs"
     title: "Our Favorites"
     excerpt: "Peep some great plants."
