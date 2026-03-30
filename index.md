@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/rose-hips.jpg
     alt: "plants"
     title: "Native Foods"
-    excerpt: "Are you wondering 'What are they' or 'Why love them?' In this essay I will-"
+    excerpt: "Wondering 'What are they' or 'Why love them?' In this essay I will-"
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
