@@ -3,9 +3,9 @@ main:
   - title: "Shop"
     url: https://shop.catcatroot.net/products/richfield-pawpaw-seedling
   - title: "Read"
-    url: /temp.md
+    url: /temp/
   - title: "Us"
-    url: /temp.md
+    url: /temp/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
