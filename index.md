@@ -9,9 +9,9 @@ header:
   
 excerpt: >
   Helping the edible wilderness adapt to a changing climate and culture.<br />
-  <small><a href="https://shop.catcatroot.net/products/richfield-pawpaw-seedling">Have Roots. Will Travel: Pawpaws Head North</a></small>
+  <small><a href="https://shop.catcatroot.net/products/richfield-pawpaw-seedling">Have Roots, Will Travel: Pawpaws Head North</a></small>
 feature_row:
-  - image_path: /assets/images/overlay.jpg
+  - image_path: /assets/images/rose-hips.jpg
     alt: "plants"
     title: "Native Foods"
     excerpt: "What are they? Why love them?"
@@ -25,7 +25,7 @@ feature_row:
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/overlay.jpg
+  - image_path: /assets/images/path-forward.jpg
     alt: "mission"
     title: "Root Networking"
     excerpt: "We're dreaming of a future!"
