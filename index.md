@@ -7,8 +7,8 @@ header:
   overlay_image: assets/images/mm-customizable-feature.jpg
   
 excerpt: >
-  Helping the fruit of the open country navigate the changing climate.<br />
-  <small><a href="https://shop.catcatroot.net/products/richfield-pawpaw-seedling">Latest addition: Pawpaw Seedlings Traveling North</a></small>
+  Helping fruit of the open country navigate the changing climate.<br />
+  <small><a href="https://shop.catcatroot.net/products/richfield-pawpaw-seedling">Have Roots. Will Travel: Pawpaws Head North</a></small>
 feature_row:
   - image_path: /assets/images/overlay.jpg
     alt: "plants"
