@@ -31,7 +31,28 @@ feature_row:
     excerpt: "We're dreaming of a future..."
     url: "/temp/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
+  - image_path: /assets/images/rose-hips.jpg
+    alt: "plants"
+    title: "Native Foods"
+    excerpt: "What are they? Why love them?"
+    url: "/temp/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/ramp.jpg
+    alt: "favs"
+    title: "Our Favorites"
+    excerpt: "Peep some great plants."
+    url: "/temp/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/path.jpg
+    alt: "mission"
+    title: "Root Network"
+    excerpt: "We're dreaming of a future..."
+    url: "/temp/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
