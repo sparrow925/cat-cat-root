@@ -3,9 +3,9 @@ main:
   - title: "Shop"
     url: https://shop.catcatroot.net/products/richfield-pawpaw-seedling
   - title: "Read"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /temp.md
   - title: "Us"
-    url: /year-archive/
+    url: /temp.md
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
