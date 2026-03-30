@@ -2,7 +2,7 @@
 main:
   - title: "Shop"
     url: https://shop.catcatroot.net
-  - title: "News"
+  - title: "Read"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Us"
     url: /year-archive/
