@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/mm-customizable-feature.jpg
   
 excerpt: >
-  Helping the edible wilderness adapt to the changing climate and culture.<br />
+  Helping the edible wilderness adapt to a changing climate and culture.<br />
   <small><a href="https://shop.catcatroot.net/products/richfield-pawpaw-seedling">Have Roots. Will Travel: Pawpaws Head North</a></small>
 feature_row:
   - image_path: /assets/images/overlay.jpg
@@ -27,8 +27,8 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/overlay.jpg
     alt: "mission"
-    title: "Our Mission"
-    excerpt: "TBD!"
+    title: "Root Networking"
+    excerpt: "We're dreaming of a future!"
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
