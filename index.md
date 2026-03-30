@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
+title: "Fruit of the Open Country"
 header:
   overlay_color: "#8fbc8f"
   overlay_image: assets/images/mm-customizable-feature.jpg
