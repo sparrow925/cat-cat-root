@@ -35,21 +35,18 @@ feature_row:
   - image_path: /assets/images/path.jpg
     alt: "mission"
     title: "Other Topic"
-    excerpt: "-"
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/rose-hips.jpg
     alt: "plants"
     title: "Other Topic"
-    excerpt: "-"
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/ramp.jpg
     alt: "favs"
     title: "Other Topic"
-    excerpt: "-"
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
