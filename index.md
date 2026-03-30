@@ -32,7 +32,7 @@ feature_row:
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
- - image_path: /assets/images/path.jpg
+  - image_path: /assets/images/path.jpg
     alt: "mission"
     title: "Other Topic"
     excerpt: "-"
