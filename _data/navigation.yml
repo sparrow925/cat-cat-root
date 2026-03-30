@@ -2,9 +2,9 @@
 main:
   - title: "Shop"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "News"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Newsletter"
+  - title: "Us"
     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
