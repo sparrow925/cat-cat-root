@@ -25,10 +25,10 @@ feature_row:
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/path-forward.jpg
+  - image_path: /assets/images/path.jpg
     alt: "mission"
-    title: "Root Networking"
-    excerpt: "We're dreaming of a future!"
+    title: "Root Network"
+    excerpt: "We're dreaming of a future..."
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
